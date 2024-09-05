@@ -56,7 +56,7 @@ The experimental protocol is depicted in the figure below:
   <img src="https://github.com/TAo-200010/AiplSeu-EEG-fNIRS-emotion/blob/main/experimental%20protocol.png">
 </div>
   
-Each subject completed a total of 15 trials, where each trial contained three periods, i.e., a 5-second hint period, a 1 to 2 minutes of video watching period, and a 30-second rest period. The purpose of the 30-second rest period was to allow the subject’s emotional state to return to baseline.
+Each subject completed a total of 15 trials, where each trial contained three periods, i.e., a 5-second hint period, a 1 to 2 minutes of video watching period, and a 30-second rest period. The purpose of the 30-second rest period was to allow the subject’s emotional state to return to baseline. Among the three periods of each trial, only the neural signals corresponding to the video watching period were used for the emotion recognition task.
 
 ## Preprocessing
 
