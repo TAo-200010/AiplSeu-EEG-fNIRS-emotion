@@ -18,13 +18,13 @@ To achieve synchronized acquisition of EEG and fNIRS signals, this experiment us
 * EEG signal acquisition was conducted using a 64-channel EEG system produced by Neuroscan. Stimuli were presented using the Presentation software, and signals were collected through the electrode cap. These signals were then amplified using the Synamps2 amplifier and recorded by Scan 4.5 software. Electrooculographic (EOG) signals and mastoid reference electrodes were excluded. The sampling rate during the data collection process was set at 1000 Hz, and the impedance of all electrodes was kept at 10 kΩ or below. The electrode positions used in the experiment are shown in the figure below: 
 
   <div align=center>
-    <img src="https://github.com/TAo-200010/AiplSeu-EEG-fNIRS-emotion/blob/main/eeg_channel.png"/>
+    <img src="https://github.com/TAo-200010/AiplSeu-EEG-fNIRS-emotion/blob/main/EEG_channel.png" width="300" />
   </div>
   
 * The fNIRS signal acquisition was conducted using the LABNIRS near-infrared brain imaging system produced by Shimadzu Corporation. This system simultaneously measures the attenuation rates of near-infrared light at three different wavelengths—780 nm, 805 nm, and 830 nm—in the brain. These attenuation rates are then converted to oxyhemoglobin (HbO) and deoxyhemoglobin (HbR) concentrations using the Modified Lambert-Beer Law. Due to the limited number of optodes, it is not possible to cover the entire brain with electrode signals. To maximize the measurement of brain activity related to the participants' emotional states, the optodes were concentrated in the frontal, prefrontal, and bilateral temporal regions. The specific positions of the optodes and channels are shown in the figure below:
 
   <div align=center>
-    <img src="https://github.com/TAo-200010/AiplSeu-EEG-fNIRS-emotion/blob/main/fNIRS_channel.png">
+    <img src="https://github.com/TAo-200010/AiplSeu-EEG-fNIRS-emotion/blob/main/fNIRS_channel.png" width="380" />
   </div>
   
 ## Stimuli materials
@@ -54,7 +54,7 @@ Since all participants were Chinese students, a set of film clips from the Chine
 The experimental protocol is depicted in the figure below:
 
 <div align=center>
-  <img src="https://github.com/TAo-200010/AiplSeu-EEG-fNIRS-emotion/blob/main/experimental%20protocol.png">
+  <img src="https://github.com/TAo-200010/AiplSeu-EEG-fNIRS-emotion/blob/main/experimental%20protocol.png" width="430" />
 </div>
   
 Each subject completed a total of 15 trials, where each trial contained three periods, i.e., a 5-second hint period, a 1 to 2 minutes of video watching period, and a 30-second rest period. The purpose of the 30-second rest period was to allow the subject’s emotional state to return to baseline. Among the three periods of each trial, only the neural signals corresponding to the video watching period were used for the emotion recognition task.
