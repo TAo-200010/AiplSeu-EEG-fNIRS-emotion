@@ -3,6 +3,10 @@
 **Related works:**  
 * Heterogeneous Graph Convolutional Neural Networks for EEG-fNIRS Bimodal Emotion Recognition  https://ieeexplore.ieee.org/abstract/document/10888828
 
+  <div align=center>
+    <img src="https://github.com/TAo-200010/AiplSeu-EEG-fNIRS-emotion/blob/main/HGCN_figure.png" width="1200" />
+  </div>
+
 **Lab:**
 * **Affective Information Processing Lab (AIPL)**: https://aip.seu.edu.cn/
 > The complementary spatiotemporal characteristics of electroencephalography (EEG) and functional near-infrared spectroscopy (fNIRS), their simultaneous measurement capability, and portability offer significant research potential for emotion recognition. However, limited data availability hampers progress in this field. Data collection poses privacy concerns, complicating database creation with stringent procedural standards. Moreover, due to the distinct mechanisms of EEG and fNIRS, designing appropriate equipment and synchronization paradigms is crucial. The scarcity and limitations of existing public EEG-fNIRS bimodal emotion databases highlight the need to establish a comprehensive EEG-fNIRS bimodal emotion database.
